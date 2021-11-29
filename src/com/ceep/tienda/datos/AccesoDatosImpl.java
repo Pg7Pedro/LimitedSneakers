@@ -1,4 +1,3 @@
-
 package com.ceep.tienda.datos;
 
 import com.ceep.tienda.dominio.Sneaker;
